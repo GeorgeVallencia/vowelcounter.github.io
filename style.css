@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 40px;
+}
+.textarea{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    text-align: center;
+    margin-top: 1rem;
+}
+.check-btn{
+    background-color: yellowgreen;
+    color: white;
+    border: none;
+    height: 2rem;
+    width: 4rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+textarea{
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    padding-left: 5px;
+    padding-top: 15px;
+}
+.output{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    width: 10rem;
+    align-items: center;
+    justify-content: center;
+}
